@@ -1,0 +1,563 @@
+
+!!!!!!!!-----------------------------------------------------------------!!!!!!!!
+
+Welcome to....
+Win Over Luck!
+
+A turn-based battle game setup on the grand Arena! 
+Turn-based battles generally start by pitting two players against one another.
+The battle begins by determining which player will go first and then proceeds as follows:
+
+Player 1 attacks using the weapon that they have in-hand by taking a swing at player 2 who tries to avoid the attack.
+If player 1 hits player 2, then player 2 potentially takes damage.
+
+Player 2 attacks using the weapon that they have in-hand by taking a swing at player 1 who tries to avoid the attack.
+If player 2 hits player 1, then player 1 potentially takes damage.
+
+Turns continue back and forth until one of the players has taken a total damage that is greater than or 
+equal to their health.
+
+The player who did not take a total damage greater than or equal to their health is declared the victor.
+It is possible for a battle to end in a draw.
+
+Let's try your luck! Good luck, haha! :D
+-------------------------------------------------------------------------
+
+The players are in the arena, they look fine without the gears! 
+Player 101
+Player basic abilities for the entire game: 
+Strength - 13
+Constitution - 11
+Dexterity - 12
+Charisma - 10
+
+Player 777
+Player basic abilities for the entire game: 
+Strength - 14
+Constitution - 14
+Dexterity - 17
+Charisma - 11
+
+The look strong... Now let's get them prepared for the ruthless Battle!
+
+-------------------------------------------------------------------------
+
+The players stronger than ever! We're ready!!
+
+The complete description of players on the arena: 
+Player 101
+Player abilities for the entire game: 
+Strength - 13
+Constitution - 18
+Dexterity - 11
+Charisma - 6
+
+The player may temporarily take advangtage of the following abilities gained through the effect of potion! 
+Strength - 8
+Constitution - -8
+Dexterity - 8
+Charisma - 0
+The temporary effect remains for 2 strikes. 
+Player is equipped with following gears: 
+[Headgear 5, Potion 11, Potion 18, Potion 19, Potion 24, Potion 27, Potion 29, Potion 8, Potion 9, Footwear 1, Belt 1, Belt 15, Belt 20, Belt 22]
+Player is using the following weapon: 
+[Broad Sword 2]
+Wohoo!! You look ready, let's start the game!
+
+Player 777
+Player abilities for the entire game: 
+Strength - 14
+Constitution - 22
+Dexterity - 14
+Charisma - 7
+
+The player may temporarily take advangtage of the following abilities gained through the effect of potion! 
+Strength - 11
+Constitution - -11
+Dexterity - 11
+Charisma - 0
+The temporary effect remains for 2 strikes. 
+Player is equipped with following gears: 
+[Headgear 4, Potion 13, Potion 14, Potion 16, Potion 17, Potion 2, Potion 22, Potion 23, Potion 3, Potion 4, Potion 6, Potion 7, Footwear 2, Belt 12, Belt 13, Belt 17, Belt 23, Belt 7]
+Player is using the following weapon: 
+[Katana 1, Katana 3]
+Wohoo!! You look ready, let's start the game!
+-------------------------------------------------------------------------
+
+Let's see who attacks first?
+
+Round 0
+Turn details:
+Attacker: Player 777; Health: 56
+Defender: Player 101; Health: 46
+
+!!!!!!!!-------------------------------------------------------------------!!!!!!!!
+
+The game BEGINS!
+
+Round 1
+Turn details:
+Attacker: Player 101; Health: 46
+Striking power: 22
+Defender: Player 777; Health: 56
+Avoidance ability: 27
+That was amazingly defended. Player 777 is safe.
+
+Round 2
+Turn details:
+Attacker: Player 777; Health: 56
+Striking power: 31
+Defender: Player 101; Health: 22
+Avoidance ability: 23
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 24
+
+Round 3
+Turn details:
+Attacker: Player 101; Health: 22
+Striking power: 30
+Defender: Player 777; Health: 56
+Avoidance ability: 26
+That was amazingly defended. Player 777 is safe.
+
+Round 4
+Turn details:
+Attacker: Player 777; Health: 56
+Striking power: 28
+Defender: Player 101; Health: -3
+Avoidance ability: 23
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 25
+
+
+!!!!!!!!-------------------------------------------------------------------!!!!!!!!
+
+WOW! That was a wonderful game. And the much awaited results are here...!
+
+Player 777 wins!!!!!!
+
+-------------------------------------------------------------------------
+
+Are we ready for another game? (Y/N)
+
+y
+
+!!!!!!!!-------------------------------------------------------------------!!!!!!!!
+
+The players stronger than ever! We're ready!!
+
+The complete description of players on the arena: 
+Player 101
+Player abilities for the entire game: 
+Strength - 13
+Constitution - 19
+Dexterity - 9
+Charisma - 6
+
+The player may temporarily take advangtage of the following abilities gained through the effect of potion! 
+Strength - 8
+Constitution - -8
+Dexterity - 8
+Charisma - 0
+The temporary effect remains for 2 strikes. 
+Player is equipped with following gears: 
+[Headgear 3, Potion 11, Potion 12, Potion 14, Potion 2, Potion 4, Potion 5, Potion 6, Potion 8, Footwear 4, Belt 10, Belt 11, Belt 12, Belt 3, Belt 4, Belt 8]
+Player is using the following weapon: 
+[Broad Sword 1]
+Wohoo!! You look ready, let's start the game!
+
+Player 777
+Player abilities for the entire game: 
+Strength - 14
+Constitution - 21
+Dexterity - 15
+Charisma - 7
+
+The player may temporarily take advangtage of the following abilities gained through the effect of potion! 
+Strength - 6
+Constitution - -6
+Dexterity - 6
+Charisma - 0
+The temporary effect remains for 2 strikes. 
+Player is equipped with following gears: 
+[Headgear 6, Potion 1, Potion 10, Potion 13, Potion 3, Potion 7, Potion 9, Footwear 2, Belt 1, Belt 14, Belt 15, Belt 5, Belt 7]
+Player is using the following weapon: 
+[Two-handed Sword 3]
+Wohoo!! You look ready, let's start the game!
+-------------------------------------------------------------------------
+
+Let's see who attacks first?
+
+Round 0
+Turn details:
+Attacker: Player 777; Health: 56
+Defender: Player 101; Health: 46
+
+!!!!!!!!-------------------------------------------------------------------!!!!!!!!
+
+The game BEGINS!
+
+Round 1
+Turn details:
+Attacker: Player 101; Health: 46
+Striking power: 26
+Defender: Player 777; Health: 43
+Avoidance ability: 22
+Whoa, that was a great move. Player 101 strikes!
+Damage caused to Player 777's health is 13
+
+Round 2
+Turn details:
+Attacker: Player 777; Health: 43
+Striking power: 29
+Defender: Player 101; Health: 27
+Avoidance ability: 20
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 19
+
+Round 3
+Turn details:
+Attacker: Player 101; Health: 27
+Striking power: 24
+Defender: Player 777; Health: 43
+Avoidance ability: 22
+That was amazingly defended. Player 777 is safe.
+
+Round 4
+Turn details:
+Attacker: Player 777; Health: 43
+Striking power: 24
+Defender: Player 101; Health: 7
+Avoidance ability: 20
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 20
+
+Round 5
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 22
+Defender: Player 777; Health: 43
+Avoidance ability: 23
+That was amazingly defended. Player 777 is safe.
+
+Round 6
+Turn details:
+Attacker: Player 777; Health: 43
+Striking power: 15
+Defender: Player 101; Health: 7
+Avoidance ability: 11
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 7
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 14
+Defender: Player 777; Health: 43
+Avoidance ability: 18
+Whoa, that was a great move. Player 101 strikes!
+Damage caused to Player 777's health is 0
+
+Round 8
+Turn details:
+Attacker: Player 777; Health: 43
+Striking power: 23
+Defender: Player 101; Health: 7
+Avoidance ability: 13
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 9
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 21
+Defender: Player 777; Health: 43
+Avoidance ability: 20
+That was amazingly defended. Player 777 is safe.
+
+Round 10
+Turn details:
+Attacker: Player 777; Health: 43
+Striking power: 15
+Defender: Player 101; Health: 7
+Avoidance ability: 12
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 11
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 14
+Defender: Player 777; Health: 43
+Avoidance ability: 17
+That was amazingly defended. Player 777 is safe.
+
+Round 12
+Turn details:
+Attacker: Player 777; Health: 43
+Striking power: 16
+Defender: Player 101; Health: 7
+Avoidance ability: 10
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 13
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 14
+Defender: Player 777; Health: 43
+Avoidance ability: 17
+That was amazingly defended. Player 777 is safe.
+
+Round 14
+Turn details:
+Attacker: Player 777; Health: 43
+Striking power: 15
+Defender: Player 101; Health: 7
+Avoidance ability: 12
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 15
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 21
+Defender: Player 777; Health: 42
+Avoidance ability: 16
+Whoa, that was a great move. Player 101 strikes!
+Damage caused to Player 777's health is 1
+
+Round 16
+Turn details:
+Attacker: Player 777; Health: 42
+Striking power: 17
+Defender: Player 101; Health: 7
+Avoidance ability: 10
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 17
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 17
+Defender: Player 777; Health: 42
+Avoidance ability: 18
+That was amazingly defended. Player 777 is safe.
+
+Round 18
+Turn details:
+Attacker: Player 777; Health: 42
+Striking power: 23
+Defender: Player 101; Health: 7
+Avoidance ability: 10
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 19
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 19
+Defender: Player 777; Health: 41
+Avoidance ability: 18
+Whoa, that was a great move. Player 101 strikes!
+Damage caused to Player 777's health is 1
+
+Round 20
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 16
+Defender: Player 101; Health: 7
+Avoidance ability: 12
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 21
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 19
+Defender: Player 777; Health: 41
+Avoidance ability: 19
+That was amazingly defended. Player 777 is safe.
+
+Round 22
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 21
+Defender: Player 101; Health: 7
+Avoidance ability: 14
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 23
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 18
+Defender: Player 777; Health: 41
+Avoidance ability: 18
+That was amazingly defended. Player 777 is safe.
+
+Round 24
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 16
+Defender: Player 101; Health: 7
+Avoidance ability: 10
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 25
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 17
+Defender: Player 777; Health: 41
+Avoidance ability: 19
+That was amazingly defended. Player 777 is safe.
+
+Round 26
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 15
+Defender: Player 101; Health: 7
+Avoidance ability: 12
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 27
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 17
+Defender: Player 777; Health: 41
+Avoidance ability: 17
+Whoa, that was a great move. Player 101 strikes!
+Damage caused to Player 777's health is 0
+
+Round 28
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 21
+Defender: Player 101; Health: 7
+Avoidance ability: 10
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 29
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 14
+Defender: Player 777; Health: 41
+Avoidance ability: 16
+Whoa, that was a great move. Player 101 strikes!
+Damage caused to Player 777's health is 0
+
+Round 30
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 23
+Defender: Player 101; Health: 7
+Avoidance ability: 10
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 31
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 16
+Defender: Player 777; Health: 41
+Avoidance ability: 16
+That was amazingly defended. Player 777 is safe.
+
+Round 32
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 16
+Defender: Player 101; Health: 7
+Avoidance ability: 10
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 33
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 20
+Defender: Player 777; Health: 41
+Avoidance ability: 17
+That was amazingly defended. Player 777 is safe.
+
+Round 34
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 15
+Defender: Player 101; Health: 7
+Avoidance ability: 11
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 35
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 18
+Defender: Player 777; Health: 41
+Avoidance ability: 19
+Whoa, that was a great move. Player 101 strikes!
+Damage caused to Player 777's health is 0
+
+Round 36
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 22
+Defender: Player 101; Health: 7
+Avoidance ability: 12
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 37
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 16
+Defender: Player 777; Health: 41
+Avoidance ability: 19
+Whoa, that was a great move. Player 101 strikes!
+Damage caused to Player 777's health is 0
+
+Round 38
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 23
+Defender: Player 101; Health: 7
+Avoidance ability: 11
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+Round 39
+Turn details:
+Attacker: Player 101; Health: 7
+Striking power: 20
+Defender: Player 777; Health: 41
+Avoidance ability: 18
+That was amazingly defended. Player 777 is safe.
+
+Round 40
+Turn details:
+Attacker: Player 777; Health: 41
+Striking power: 19
+Defender: Player 101; Health: 7
+Avoidance ability: 12
+Whoa, that was a great move. Player 777 strikes!
+Damage caused to Player 101's health is 0
+
+
+!!!!!!!!-------------------------------------------------------------------!!!!!!!!
+
+WOW! That was a wonderful game. And the much awaited results are here...!
+
+It's a draw. Both players are extremely competitive!
+
+-------------------------------------------------------------------------
+
+Are we ready for another game? (Y/N)
+
+n
+
+!!!!!!!!-------------------------------------------------------------------!!!!!!!!
+
+It was great having you here. Have a great day!
